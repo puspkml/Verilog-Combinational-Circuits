@@ -96,15 +96,17 @@ The project covers essential building blocks of digital systems, including logic
 Install the following tools:
 
 ### Ubuntu
+```
 sudo apt update
 sudo apt install iverilog gtkwave
-Windows
+```
+### Windows
 
-#### Install:
-
+Install:
+```
 Icarus Verilog
 GTKWave
-
+```
 and add both applications to the system PATH.
 
 
