@@ -1,5 +1,10 @@
 # Verilog Combinational Circuits
 
+![Verilog](https://img.shields.io/badge/HDL-Verilog-blue)
+![Simulation](https://img.shields.io/badge/Simulation-Icarus_Verilog-orange)
+![Waveform](https://img.shields.io/badge/Waveform-GTKWave-purple)
+
+
 A comprehensive collection of fundamental combinational logic circuits implemented in Verilog HDL, accompanied by simulation testbenches and waveform verification files.
 
 This repository serves as a practical resource for learning and understanding digital logic design through hardware description languages. Each circuit has been designed, simulated, and verified using industry-standard tools such as Icarus Verilog and GTKWave, providing a complete workflow from design implementation to functional verification.
