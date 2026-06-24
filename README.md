@@ -54,6 +54,57 @@ The project covers essential building blocks of digital systems, including logic
 * Binary to BCD Converter
 * BCD to 7-Segment Display Decoder
 
+
+## Repository Structure
+.
+├── Design Files (*.v)
+│   ├── and_gate.v
+│   ├── or_gate.v
+│   ├── xor_gate.v
+│   ├── not_gate.v
+│   ├── half_adder.v
+│   ├── full_adder.v
+│   ├── half_subtractor.v
+│   ├── full_subtractor.v
+│   ├── mux_2x1.v
+│   ├── mux_4x1.v
+│   ├── demux_4x1.v
+│   ├── encoder.v
+│   ├── decoder.v
+│   ├── comparator.v
+│   ├── binary_to_gray.v
+│   ├── gray_to_binary.v
+│   ├── binary_to_bcd.v
+│   └─── bcd_to_7segment.v
+│   
+│
+├── Testbenches
+│   ├── tb_and_gate.v
+│   ├── tb_or_gate.v
+│   ├── tb_xor_gate.v
+│   ├── ...
+│
+└── Waveforms
+    ├── and_waveform.vcd
+    ├── or_waveform.vcd
+    ├── ...
+## Prerequisites
+
+Install the following tools:
+
+### Ubuntu
+sudo apt update
+sudo apt install iverilog gtkwave
+Windows
+
+#### Install:
+
+Icarus Verilog
+GTKWave
+
+and add both applications to the system PATH.
+
+
 ## Learning Outcomes
 
 This repository demonstrates core concepts in digital logic design, including:
