@@ -56,6 +56,7 @@ The project covers essential building blocks of digital systems, including logic
 
 
 ## Repository Structure
+```
 .
 ├── Design Files (*.v)
 │   ├── and_gate.v
@@ -88,6 +89,8 @@ The project covers essential building blocks of digital systems, including logic
     ├── and_waveform.vcd
     ├── or_waveform.vcd
     ├── ...
+```
+
 ## Prerequisites
 
 Install the following tools:
