@@ -1,0 +1,64 @@
+$date
+	Tue Jun  2 17:34:53 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_binary_to_bcd $end
+$var wire 1 ! z $end
+$var wire 1 " y $end
+$var wire 1 # x $end
+$var wire 1 $ w $end
+$var wire 1 % v $end
+$var reg 1 & a $end
+$var reg 1 ' b $end
+$var reg 1 ( c $end
+$var reg 1 ) d $end
+$scope module dut $end
+$var wire 1 & a $end
+$var wire 1 ' b $end
+$var wire 1 ( c $end
+$var wire 1 ) d $end
+$var wire 1 % v $end
+$var wire 1 $ w $end
+$var wire 1 # x $end
+$var wire 1 " y $end
+$var wire 1 ! z $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1)
+0(
+1'
+0&
+0%
+0$
+1#
+0"
+1!
+$end
+#10
+1$
+0#
+0'
+1&
+#20
+1"
+1#
+0$
+1(
+1'
+0&
+#30
+0#
+1%
+0!
+0)
+0(
+1&
+#40

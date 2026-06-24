@@ -1,0 +1,42 @@
+$date
+	Tue Jun  2 16:10:54 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_binary_to_gray $end
+$var wire 1 ! g4 $end
+$var wire 1 " g3 $end
+$var wire 1 # g2 $end
+$var wire 1 $ g1 $end
+$var reg 1 % b1 $end
+$var reg 1 & b2 $end
+$var reg 1 ' b3 $end
+$var reg 1 ( b4 $end
+$scope module dut $end
+$var wire 1 % b1 $end
+$var wire 1 & b2 $end
+$var wire 1 ' b3 $end
+$var wire 1 ( b4 $end
+$var wire 1 $ g1 $end
+$var wire 1 # g2 $end
+$var wire 1 " g3 $end
+$var wire 1 ! g4 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1(
+0'
+1&
+0%
+1$
+1#
+1"
+1!
+$end
+#10
